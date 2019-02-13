@@ -8,8 +8,8 @@ Download the .rar file and extract it's contents so it can run on your browser.
 
 ## Built With
 
-* HTML 5 and CSS 3 - Preferred language used.
-* Javascript - Preferred language used.
+* HTML 5 and CSS 3 - language used.
+* Javascript - language used.
 * Bootstrap - Web framework used
 
 ## Authors
@@ -24,6 +24,6 @@ This is a school project by JCU Singapore students who are taking up bachelors o
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* My passion for design and front-end development
 * Inspiration
-* etc
+* My former team members 
